@@ -4,6 +4,7 @@
 
 🏆 **Isazi AI Accessibility Hackathon 2026 Submission**  
 👤 **By: LethaboMH14**
+To launch run.bat 
 
 ---
 
