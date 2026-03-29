@@ -5,6 +5,14 @@
 🏆 **Isazi AI Accessibility Hackathon 2026 Submission**  
 👤 **By: LethaboMH14**
 To launch run.bat 
+or 🔧 Step 1: Install Dependencies
+Option A: Automatic Installation (Recommended)
+bash
+# Navigate to your project folder
+cd "C:\Users\USER\Desktop\UIAU\unified_intent_amplifier_upload"
+ 
+# Run the automatic installer
+install.bat
 
 ---
 
